@@ -1,0 +1,41 @@
+<mxfile host="app.diagrams.net" modified="2023-10-01T03:32:19.725Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.43" version="22.0.0" etag="weLRVywqXZpYFcZpcf40" type="github">
+  <diagram name="Page-1" id="WIiUX86oD0zy6TXUdLos">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Bus Route and Schedule Mobile app" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry y="84" width="268" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="User" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="334" width="47" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Database" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="318" y="84" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Map" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="336" y="167" width="44" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6188755963996468;exitY=-0.00980388416963465;entryX=0.008699011295399767;entryY=0.4950980579151827;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="293" y="17" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9991837686567164;exitY=0.485294173745548;entryX=-0.002700617283950617;entryY=0.485294173745548;" edge="1" parent="1" source="2" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6188755963996468;exitY=0.9803922316607308;entryX=-0.0031960227272727275;entryY=0.5049020542817957;" edge="1" parent="1" source="2" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="293" y="184" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
